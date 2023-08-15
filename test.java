@@ -3,7 +3,7 @@ public class ArraysEqual {
 	public static void main(String[] args) {
 
 		
-		 System.out.println("Hi Mithun");
+		 System.out.println("Hi Mithun Kumbhar");
 		 
 	}
 
